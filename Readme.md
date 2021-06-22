@@ -1,6 +1,8 @@
 # Appunti lampo per scriptare GIMP
 ## Per GIMP 2.8
-E' utile il tutorial: [](https://www.youtube.com/watch?v=J_7JZlsOb5M)
+E' utile il tutorial:
+[https://www.youtube.com/watch?v=J_7JZlsOb5M](https://www.youtube.com/watch?v=J_7JZlsOb5M)
+
 PERO' ATTENZIONE: Non esiste più il sito online con gli script, li trovi invece su GitHub: [](hhttps://github.com/pixlsus/registry.gimp.org_static)
 (per trovare qualche script basta che navighi in ``registry.gimp.org/files`` e prendi un file tipo *.scm (sono scritti in linguaggio _Scheme_))
 
