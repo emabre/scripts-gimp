@@ -42,3 +42,4 @@ Puoi salvarlo con il nome che ti pare purche abbia estensione ".scm".
 
 ## Licenza e copyright
 Gli script contenuti in questo repository sono ad uso personale e sono stati copiati interamente, o in parte, dal [sito web ufficiale di GIMP](https://www.gimp.org/) o da altre risorse correlate alla comunità di GIMP. Alla comunità di GIMP vanno tutti i riconoscimenti.
+Coerentemente, tutto il codice qui contenuto è rilasciato sotto licenza GNU General Public License v3.0.
